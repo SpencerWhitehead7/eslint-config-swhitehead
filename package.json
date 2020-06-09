@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-swhitehead",
+  "version": "1.0.0",
+  "description": "Personal config for projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerWhitehead7/eslint-config-swhitehead.git"
+  },
+  "author": "spencer",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/SpencerWhitehead7/eslint-config-swhitehead/issues"
+  },
+  "homepage": "https://github.com/SpencerWhitehead7/eslint-config-swhitehead#readme",
+  "peerDependencies": {
+    "eslint": ">= 7.2.0",
+    "eslint-plugin-react": ">= 7.20.0",
+    "eslint-plugin-react-hooks": ">= 4.0.3"
+  }
+}
